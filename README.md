@@ -12,7 +12,7 @@ Lightweight, responsive, and built with no JavaScript — perfect for modern UI 
 ---
 
 🎬 **Preview on YouTube Shorts:**  
-[Watch the Effect Here](https://youtube.com/shorts/2VTeSTc_nHU)
+[Watch the Effect Here](https://youtube.com/shorts/TXRf95iDh-A)
 
 ## 🛠️ Tech Used
 - HTML5
